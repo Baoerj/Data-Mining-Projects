@@ -1,13 +1,13 @@
 # Data-Mining-Projects
 ## Four Projects
 ### 1.Project1
-  Numeric Data Analysis
+  [Numeric Data Analysis](https://github.com/Baoerj/Data-Mining-Projects/blob/master/Project1.py)
 ### 2.Project2
-  Kernel Computation
+  [Kernel Computation](https://github.com/Baoerj/Data-Mining-Projects/blob/master/Project2.py)
 ### 3.Project3
-  Density Based Clustering
+  [Density Based Clustering](https://github.com/Baoerj/Data-Mining-Projects/blob/master/Project3.py)
 ### 4.Project4
-  Decision Trees
+  [Decision Trees](https://github.com/Baoerj/Data-Mining-Projects/blob/master/Project4.py)
   
 ## Prerequisites
  |Package|Version|
